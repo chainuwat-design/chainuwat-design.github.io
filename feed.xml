@@ -3,7 +3,7 @@
     <title>Chainuwat Design</title>
     <link href="https://chainuwat-design.github.io/feed.xml" rel="self" />
     <link href="https://chainuwat-design.github.io" />
-    <updated>2022-11-27T15:01:06+07:00</updated>
+    <updated>2022-11-27T15:24:07+07:00</updated>
     <author>
         <name>Chainuwat Chuaykongtong</name>
     </author>
@@ -18,9 +18,13 @@
         <id>https://chainuwat-design.github.io/about-me.html</id>
             <category term="Aboutme"/>
 
-        <updated>2022-11-27T15:01:06+07:00</updated>
+        <updated>2022-11-27T15:24:07+07:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/3/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920.jpg" alt="" width="1920" height="2693" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>ABDOMINAL LIPOSUCTION Campaign</title>

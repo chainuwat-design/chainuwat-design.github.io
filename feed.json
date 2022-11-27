@@ -13,6 +13,7 @@
             "id": "https://chainuwat-design.github.io/about-me.html",
             "url": "https://chainuwat-design.github.io/about-me.html",
             "title": "ABOUT ME",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chainuwat-design.github.io/media/posts/3/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920.jpg\" alt=\"\" width=\"1920\" height=\"2693\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/3/responsive/85bff943-41f1-41eb-8edc-7cedbc6a9fba_rw_1920-lg.jpg 1024w\"></figure>",
             "author": {
                 "name": "Chainuwat Chuaykongtong"
             },
@@ -20,7 +21,7 @@
                    "Aboutme"
             ],
             "date_published": "2022-11-27T13:23:50+07:00",
-            "date_modified": "2022-11-27T15:01:06+07:00"
+            "date_modified": "2022-11-27T15:24:07+07:00"
         },
         {
             "id": "https://chainuwat-design.github.io/abdominal-liposuction-campaign.html",
