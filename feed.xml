@@ -3,12 +3,24 @@
     <title>Chainuwat Design</title>
     <link href="https://chainuwat-design.github.io/feed.xml" rel="self" />
     <link href="https://chainuwat-design.github.io" />
-    <updated>2022-11-27T16:02:06+07:00</updated>
+    <updated>2022-11-27T16:13:35+07:00</updated>
     <author>
         <name>Chainuwat Chuaykongtong</name>
     </author>
     <id>https://chainuwat-design.github.io</id>
 
+    <entry>
+        <title>CLIENTS</title>
+        <author>
+            <name>Chainuwat Chuaykongtong</name>
+        </author>
+        <link href="https://chainuwat-design.github.io/clients.html"/>
+        <id>https://chainuwat-design.github.io/clients.html</id>
+
+        <updated>2022-11-27T16:12:59+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>TheLINE : Single Web Application</title>
         <author>
@@ -16,12 +28,14 @@
         </author>
         <link href="https://chainuwat-design.github.io/theline-single-web-application.html"/>
         <id>https://chainuwat-design.github.io/theline-single-web-application.html</id>
+        <media:content url="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-1.jpg" medium="image" />
 
-        <updated>2022-11-27T16:02:06+07:00</updated>
+        <updated>2022-11-27T16:07:51+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-1-4.jpg" alt="" width="1920" height="1280" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-4-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-4-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-4-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-4-lg.jpg 1024w"></figure>
+                    <p><img src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-1.jpg" class="type:primaryImage" alt="" /></p>
+                <p> </p>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-2-2.jpg" alt="" width="1920" height="4337" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-2-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-2-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-2-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-2-lg.jpg 1024w"></figure>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-3.jpg" alt="" width="2800" height="1866" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-lg.jpg 1024w"></figure>
 <figure class="post__image post__image--center"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-4.jpg" alt="" width="2800" height="1867" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-lg.jpg 1024w"></figure>
@@ -37,7 +51,7 @@
         <id>https://chainuwat-design.github.io/about-me.html</id>
             <category term="Aboutme"/>
 
-        <updated>2022-11-27T15:33:27+07:00</updated>
+        <updated>2022-11-27T16:13:35+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
