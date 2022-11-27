@@ -10,6 +10,33 @@
     },
     "items": [
         {
+            "id": "https://chainuwat-design.github.io/abc-style-clinic-video-editing.html",
+            "url": "https://chainuwat-design.github.io/abc-style-clinic-video-editing.html",
+            "title": "BONGBONG CLINIC : Video Editing",
+            "content_html": "<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"694\" height=\"388\" style=\"width: 694px; height: 388px;\" src=\"https://www.youtube.com/embed/Ur1n2ckC728?t=19s\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"694\" height=\"388\" style=\"width: 694px; height: 388px;\" src=\"https://www.youtube.com/embed/uUxoVS3f2xk\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n<figure class=\"post__video\">\n<figure class=\"post__video\">\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"690\" height=\"387\" style=\"width: 690px; height: 387px;\" src=\"https://www.youtube.com/embed/NVXyyByqxtg\" allowfullscreen=\"allowfullscreen\"></iframe></figure>\n<figure class=\"post__video\"><iframe loading=\"lazy\" width=\"687\" height=\"385\" style=\"width: 687px; height: 385px;\" src=\"https://www.youtube.com/embed/oIfLE6_OwHU\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe></figure>\n</figure>\n</figure>",
+            "author": {
+                "name": "Chainuwat Chuaykongtong"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-27T17:02:25+07:00",
+            "date_modified": "2022-11-27T17:18:16+07:00"
+        },
+        {
+            "id": "https://chainuwat-design.github.io/abc-style-clinic-yellong-landing-page.html",
+            "url": "https://chainuwat-design.github.io/abc-style-clinic-yellong-landing-page.html",
+            "title": "ABC STYLE CLINIC * YELLONG : Landing Page",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://chainuwat-design.github.io/media/posts/8/abc-x-yellong-landing-2.jpg\" alt=\"\" width=\"1920\" height=\"11781\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://chainuwat-design.github.io/media/posts/8/responsive/abc-x-yellong-landing-2-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/8/responsive/abc-x-yellong-landing-2-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/8/responsive/abc-x-yellong-landing-2-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/8/responsive/abc-x-yellong-landing-2-lg.jpg 1024w\"></figure>",
+            "image": "https://chainuwat-design.github.io/media/posts/8/abc-x-yellong-landing-1.jpg",
+            "author": {
+                "name": "Chainuwat Chuaykongtong"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-27T16:45:40+07:00",
+            "date_modified": "2022-11-27T16:45:40+07:00"
+        },
+        {
             "id": "https://chainuwat-design.github.io/abc-style-clinic-website.html",
             "url": "https://chainuwat-design.github.io/abc-style-clinic-website.html",
             "title": "ABC STYLE CLINIC : Website",
