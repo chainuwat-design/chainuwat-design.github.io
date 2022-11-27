@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://chainuwat-design.github.io/about-me.html",
+            "url": "https://chainuwat-design.github.io/about-me.html",
+            "title": "ABOUT ME",
+            "author": {
+                "name": "Chainuwat Chuaykongtong"
+            },
+            "tags": [
+                   "Aboutme"
+            ],
+            "date_published": "2022-11-27T13:23:50+07:00",
+            "date_modified": "2022-11-27T13:25:25+07:00"
+        },
+        {
             "id": "https://chainuwat-design.github.io/abdominal-liposuction-campaign.html",
             "url": "https://chainuwat-design.github.io/abdominal-liposuction-campaign.html",
             "title": "ABDOMINAL LIPOSUCTION Campaign",
