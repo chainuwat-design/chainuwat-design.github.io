@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chainuwat-design.github.io/sitemap.xml
