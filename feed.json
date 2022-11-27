@@ -9,5 +9,18 @@
         "name": "Chainuwat Chuaykongtong"
     },
     "items": [
+        {
+            "id": "https://chainuwat-design.github.io/1111-buy-1-get-1-campaign.html",
+            "url": "https://chainuwat-design.github.io/1111-buy-1-get-1-campaign.html",
+            "title": "11.11 Buy 1 Get 1 Campaign",
+            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://chainuwat-design.github.io/media/posts/1/2022.11.09_11.11_Promotion-08.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"100vw\" srcset=\"https://chainuwat-design.github.io/media/posts/1/responsive/2022.11.09_11.11_Promotion-08-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/1/responsive/2022.11.09_11.11_Promotion-08-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/1/responsive/2022.11.09_11.11_Promotion-08-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/1/responsive/2022.11.09_11.11_Promotion-08-lg.jpg 1024w ,https://chainuwat-design.github.io/media/posts/1/responsive/2022.11.09_11.11_Promotion-08-xl.jpg 1360w ,https://chainuwat-design.github.io/media/posts/1/responsive/2022.11.09_11.11_Promotion-08-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Chainuwat Chuaykongtong"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-27T11:51:53+07:00",
+            "date_modified": "2022-11-27T11:51:53+07:00"
+        }
     ]
 }
