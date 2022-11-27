@@ -3,12 +3,33 @@
     <title>Chainuwat Design</title>
     <link href="https://chainuwat-design.github.io/feed.xml" rel="self" />
     <link href="https://chainuwat-design.github.io" />
-    <updated>2022-11-27T15:24:07+07:00</updated>
+    <updated>2022-11-27T15:52:16+07:00</updated>
     <author>
         <name>Chainuwat Chuaykongtong</name>
     </author>
     <id>https://chainuwat-design.github.io</id>
 
+    <entry>
+        <title>TheLINE : Single Web Application</title>
+        <author>
+            <name>Chainuwat Chuaykongtong</name>
+        </author>
+        <link href="https://chainuwat-design.github.io/theline-single-web-application.html"/>
+        <id>https://chainuwat-design.github.io/theline-single-web-application.html</id>
+        <media:content url="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-1-2.jpg" medium="image" />
+
+        <updated>2022-11-27T15:52:16+07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-1-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--full"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-1.jpg" alt="" width="1400" height="933" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-1-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-2.jpg" alt="" width="1400" height="3162" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-2-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-3.jpg" alt="" width="2800" height="1866" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-3-lg.jpg 1024w"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/4/theline-consult-landing-4.jpg" alt="" width="2800" height="1867" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-xs.jpg 300w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-sm.jpg 480w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-md.jpg 768w ,https://chainuwat-design.github.io/media/posts/4/responsive/theline-consult-landing-4-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>ABOUT ME</title>
         <author>
@@ -18,7 +39,7 @@
         <id>https://chainuwat-design.github.io/about-me.html</id>
             <category term="Aboutme"/>
 
-        <updated>2022-11-27T15:24:07+07:00</updated>
+        <updated>2022-11-27T15:33:27+07:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
