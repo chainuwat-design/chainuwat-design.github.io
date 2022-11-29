@@ -10,6 +10,18 @@
     },
     "items": [
         {
+            "id": "https://chainuwat-design.github.io/contact.html",
+            "url": "https://chainuwat-design.github.io/contact.html",
+            "title": "CONTACT",
+            "author": {
+                "name": "Chainuwat Chuaykongtong"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-29T10:01:24+07:00",
+            "date_modified": "2022-11-29T10:01:31+07:00"
+        },
+        {
             "id": "https://chainuwat-design.github.io/smile-plus-cleft-lip-children-campaign.html",
             "url": "https://chainuwat-design.github.io/smile-plus-cleft-lip-children-campaign.html",
             "title": "SMILE PLUS - Cleft Lip Children Campaign",
