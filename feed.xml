@@ -3,7 +3,7 @@
     <title>Chainuwat Design</title>
     <link href="https://chainuwat-design.github.io/feed.xml" rel="self" />
     <link href="https://chainuwat-design.github.io" />
-    <updated>2022-11-30T16:35:22+07:00</updated>
+    <updated>2022-11-30T16:48:39+07:00</updated>
     <author>
         <name>Chainuwat Chuaykongtong</name>
     </author>
@@ -274,9 +274,22 @@
         <link href="https://chainuwat-design.github.io/contact.html"/>
         <id>https://chainuwat-design.github.io/contact.html</id>
 
-        <updated>2022-11-29T10:01:31+07:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-11-30T16:48:39+07:00</updated>
+            <summary>
+                <![CDATA[
+                    ADDRESS 11 Soi Charoen Pattana 13, Ramindra Rd., Bang Chan, Klong Sam Wa, Bangkok 10510 chainuwat.studio@gmail.com 085-365-8949
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3 class="align-center">ADDRESS</h3>
+<p class="align-center">11 Soi Charoen Pattana 13, Ramindra Rd., Bang Chan, Klong Sam Wa, Bangkok 10510</p>
+<h3 class="align-center">EMAIL</h3>
+<p class="align-center"><a href="mailto:chainuwat.studio@gmail.com">chainuwat.studio@gmail.com</a></p>
+<h3 class="align-center">TEL</h3>
+<p class="align-center"><a href="tel:+66853658949">085-365-8949</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>SMILE PLUS - Cleft Lip Children Campaign</title>
