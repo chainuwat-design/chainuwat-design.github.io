@@ -3,7 +3,7 @@
     <title>Chainuwat Design</title>
     <link href="https://chainuwat-design.github.io/feed.xml" rel="self" />
     <link href="https://chainuwat-design.github.io" />
-    <updated>2022-11-30T15:44:22+07:00</updated>
+    <updated>2022-11-30T16:30:07+07:00</updated>
     <author>
         <name>Chainuwat Chuaykongtong</name>
     </author>
@@ -398,26 +398,24 @@
         </author>
         <link href="https://chainuwat-design.github.io/about-me.html"/>
         <id>https://chainuwat-design.github.io/about-me.html</id>
-        <media:content url="https://chainuwat-design.github.io/media/posts/3/1642955183055.jpg" medium="image" />
             <category term="Aboutme"/>
 
-        <updated>2022-11-30T15:44:22+07:00</updated>
+        <updated>2022-11-30T16:30:07+07:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://chainuwat-design.github.io/media/posts/3/1642955183055.jpg" alt="" />
                     A LIFETIME OF CREATIVITY Since the beginning of my career, I’ve focused on channeling my talent and creativity into meaningful and powerful results. I take pride in the work I do, as well as the strong relationships I’ve built with clients and colleagues. I firmly&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://chainuwat-design.github.io/media/posts/3/1642955183055.jpg" class="type:primaryImage" alt="" /></p>
-                <h1 class="font_2 align-center"><span class="color_11">A LIFETIME OF CREATIVITY</span></h1>
+                <figure class="post__image post__image--center"><img loading="lazy"  style="outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://chainuwat-design.github.io/media/posts/3/about-hero-img-2.png" alt="" width="1920" height="1440" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/3/responsive/about-hero-img-2-xs.png 300w ,https://chainuwat-design.github.io/media/posts/3/responsive/about-hero-img-2-sm.png 480w ,https://chainuwat-design.github.io/media/posts/3/responsive/about-hero-img-2-md.png 768w ,https://chainuwat-design.github.io/media/posts/3/responsive/about-hero-img-2-lg.png 1024w"></figure>
+<h1 class="font_2 align-center"><span class="color_11">A LIFETIME OF CREATIVITY</span></h1>
 <p class="font_2 align-center">Since the beginning of my career, I’ve focused on channeling my talent and creativity into meaningful and powerful results. I take pride in the work I do, as well as the strong relationships I’ve built with clients and colleagues. I firmly believe in working hard, working together, and having fun along the way. If you’re interested in learning more about me or my work, simply reach out.</p>
 <p> </p>
 <hr>
 <h1 class="align-center">SELECTED CLIENTS</h1>
 <p> </p>
-<hr>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://chainuwat-design.github.io/media/posts/3/clients.png" alt="" width="1920" height="1080" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://chainuwat-design.github.io/media/posts/3/responsive/clients-xs.png 300w ,https://chainuwat-design.github.io/media/posts/3/responsive/clients-sm.png 480w ,https://chainuwat-design.github.io/media/posts/3/responsive/clients-md.png 768w ,https://chainuwat-design.github.io/media/posts/3/responsive/clients-lg.png 1024w"></figure>
 <h1 class="align-center">EXPERIENCE</h1>
 <div class="pvs-entity
     pvs-entity--padded pvs-list__item--no-padding-when-nested
